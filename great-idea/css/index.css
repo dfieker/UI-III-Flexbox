@@ -72,6 +72,8 @@ h1, h2, h3, h4, h5 {
 	width: 100%;
 }
 
+/*index.html page*/
+
 .top-content {
   display: flex;
   border: 2px solid red;
@@ -204,4 +206,23 @@ button {
 
 footer {
 	text-align: center;
+}
+
+
+
+
+
+
+
+/*services.html page*/
+
+.header-services {
+  display: flex;
+  flex-direction: column;
+}
+
+
+.services-header-img {
+  width: 100%;
+  
 }
