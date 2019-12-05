@@ -219,10 +219,33 @@ footer {
 .header-services {
   display: flex;
   flex-direction: column;
+  border-bottom: 1px solid black;
 }
 
 
 .services-header-img {
-  width: 100%;
+  width: 91%;
+  margin: 3% 0 3% 8%;
+}
+
+.top-text {
+  margin: 0 0 4% 8%;
+}
+
+.top-text h2 {
+  font-size: 26px;
+}
+
+.middle-services {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 3% 0 3% 8%;
+  justify-content: space-around;
+}
+
+.text-content-services {
+  width: 45%;
+  border: 2px solid red;
   
 }
+
